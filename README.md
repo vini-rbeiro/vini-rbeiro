@@ -1,4 +1,4 @@
-## Olá! Eu sou o Vinícius Ribeiro 👋
+# Olá! Eu sou o Vinícius Ribeiro 👋
 
 Tenho 17 anos e estou estudando muito para me tornar um bom desenvolvedor Frontend!
 
